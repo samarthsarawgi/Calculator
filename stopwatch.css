@@ -1,0 +1,50 @@
+.hero{
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero3{
+    align-items: center;
+    background-color: red;
+    color: white;
+    margin: 10px;
+    color: yellow;
+}
+.container{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background: rgba(27,31,35,0.2);
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.hero1{
+    display: inline;
+}
+.hero4{
+    align-items: center;
+    background-color: gray;
+    color: black;
+    margin: 10px;
+    color: yellow;
+}
+.hero5{
+    align-items: center;
+    background-color: red;
+    color: white;
+    margin: 10px;
+    color: yellow;
+}
+.timebox{
+    height: 200px;
+}
+.mins{
+    height: 1500px;
+}
+.secs{
+    height: 150px;
+}
